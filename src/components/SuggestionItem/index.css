@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.suggestion-card {
+  display: flex;
+  flex-direction: row;
+  width: 470px;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 8px;
+}
+
+.arrow-img {
+  width: 25px;
+  align-self: auto;
+}
+
+.arrow-btn {
+  background: none;
+  border: 0;
+}
+
+.suggestion {
+  margin: 0;
+  padding: 0;
+}
